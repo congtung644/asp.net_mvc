@@ -1,0 +1,14 @@
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb

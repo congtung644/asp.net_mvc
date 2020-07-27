@@ -1,0 +1,10 @@
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.csprojResolveAssemblyReference.cache
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.csprojResolveAssemblyReference.cache
+D:\Desktop\asp.Net-MVC\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.pdb

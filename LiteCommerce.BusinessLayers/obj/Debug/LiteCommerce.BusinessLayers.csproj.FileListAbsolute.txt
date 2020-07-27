@@ -1,0 +1,18 @@
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojResolveAssemblyReference.cache
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
+D:\New folder\Lite-Commerce-feature-1-ui-theme\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojResolveAssemblyReference.cache
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
+D:\Desktop\asp.Net-MVC\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb
